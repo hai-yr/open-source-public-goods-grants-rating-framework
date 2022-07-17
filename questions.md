@@ -1,5 +1,5 @@
 1. Neglectedness:
-What is the total investment (public, private, non-profit) into a solution or the amount of people/entities working on solutions to said issue?
+What is the total investment (public, private, non-profit) into a solution or the amount of people/entities working on solutions to the stated issue?
 (100 billion USD = 0, 10 billion = 2, 100 million = 6, 10 million = 8, 1 million = 10, <100k = 12)
 Full time staff (1 million = 0, ... 1 or less = 2)
 
