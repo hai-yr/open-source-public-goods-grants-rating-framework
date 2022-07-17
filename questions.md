@@ -9,7 +9,7 @@ If this project was maximally successful how big would the relative impact be? F
 
 3. Scalability:
 How scalable is the proposed solution? Is there a path to financial viability?
-(solvability, the doubling of 
+(solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
 
 4. Impact Fit:
 How does this solution compare to existing or other proposed solutions?
@@ -23,7 +23,7 @@ How much experience does the team have as a whole?
 
 b. Industry-specific experience
 
-Does the team have the necessary background to contribute meaningfully to solutions in the space? i.e. climate-focused team with a climate scientist
+Does the team have the necessary background to understand and contribute meaningfully to solutions in the space? 
 
 c. Reputation/track record of execution
 
