@@ -16,11 +16,17 @@ How does this solution compare to existing or other proposed solutions?
 
 5. Team:
 How likely is the team to execute on the proposed solution?
+
 a. Collective experience
+
 How much experience does the team have as a whole?
+
 b. Industry-specific experience
+
 Does the team have the necessary background to contribute meaningfully to solutions in the space? i.e. climate-focused team with a climate scientist
+
 c. Reputation/track record of execution
+
 Does the team have a record of building and contributing to other projects?
 
 6. Secondary Impacts:
