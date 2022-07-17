@@ -8,7 +8,7 @@ What is the total investment (public, private, non-profit) into a solution or th
 2. Scale: 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
 
-(0.001 Gt = 0, 0.01 = 2, 0.1 = 4, 1 = 6, 8 = 10,  10 = 100 Gt)
+  (0.001 Gt = 0, 0.01 = 2, 0.1 = 4, 1 = 6, 8 = 10,  10 = 100 Gt)
 
 3. Scalability:
 How scalable is the proposed solution? Is there a path to financial viability?
