@@ -3,7 +3,7 @@ What is the total investment (public, private, non-profit) into a solution or th
 
 Example of rating scale
 (100 billion USD = 0, 10 billion = 2, 100 million = 6, 10 million = 8, 1 million = 10, <100k = 12)
-Full time staff (1 million = 0, ... 1 or less = 2)
+Full time staff (1 million = 0, ... 1 or less = 12)
 
 2. Scale: 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
