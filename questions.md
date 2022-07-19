@@ -1,7 +1,7 @@
 1. Neglectedness:
 What is the total current investment (public, private, non-profit) into the same type of solution to the stated (or implied) issue?
 
-or 
+    or 
 
 What is the number of people/entities working on similar solutions to the issue?
 
