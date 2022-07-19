@@ -17,9 +17,10 @@ If this project was maximally successful how big would the relative impact be? F
 
     (0.001 Gt = 0, 0.01 = 2, 0.1 = 4, 1 = 6, 8 = 10,  10 = 100 Gt)
 
-3. Scalability:
+3. Scalability: 
 How scalable is the proposed solution? Is there a path to financial viability?
-(similar to solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
+
+    (similar to solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
 
 4. Execution score:
 
@@ -53,7 +54,6 @@ What are any potential secondary impacts of the proposed solution?
     Do they align with UN SDG (Sustainable Development Goals)?
 
 6. Efficiency:
-
-    What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
+What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
 
     Multiply total impact score by efficiency
