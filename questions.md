@@ -3,12 +3,14 @@ What is the total current investment (public, private, non-profit) into the same
 
     or 
 
-What is the number of people/entities working on similar solutions to the issue?
+    What is the number of people/entities working on similar solutions to the issue?
 
     Example of rating scale
     (100 billion USD = 0, 10 billion = 2, 100 million = 6, 10 million = 8, 1 million = 10, <100k = 12)
     
     Full time staff (1 million = 0, ... 1 or less = 12)
+    
+    Companies (50 = 0, 1 or less = 12)
 
 2. Scale: 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
