@@ -15,28 +15,39 @@ If this project was maximally successful how big would the relative impact be? F
 How scalable is the proposed solution? Is there a path to financial viability?
 (similar to solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
 
-4. Impact Fit:
-How does this solution compare to existing or other proposed solutions?
+4. Successful execution score:
 
-5. Team:
-How likely is the team to execute on the proposed solution?
+Impact/solution fit:
 
-    a. Collective experience
+    How does this solution compare to existing or other proposed solutions?
 
-    How much experience does the team have as a whole?
+Team fit:
 
-    b. Industry-specific experience
+    How likely is the team to execute on the proposed solution?
 
-    Does the team have the necessary background to understand and contribute meaningfully to solutions in the space? 
+        a. Collective experience
 
-    c. Reputation/track record of execution
+        How much experience does the team have as a whole?
 
-    Does the team have a record of building and contributing to other projects?
+        b. Industry-specific experience
 
-6. Secondary Impacts:
+        Does the team have the necessary background to understand and contribute meaningfully to solutions in the space? 
+
+        c. Reputation/track record of execution
+
+        Does the team have a record of building and contributing to other projects?
+    
+ 
+
+5. Secondary Impacts:
 What are any potential secondary impacts of the proposed solution? 
+
+    Deduct points for negative secondary impacts
 
     Do they align with UN SDG (Sustainable Development Goals)?
 
-7. Efficiency:
+6. Efficiency:
+
 What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track this?
+
+    Multiply total impact score by efficiency
