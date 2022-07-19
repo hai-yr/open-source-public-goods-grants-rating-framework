@@ -48,12 +48,12 @@ How scalable is the proposed solution? Is there a path to financial viability?
 5. Secondary Impacts:
 What are any potential secondary impacts of the proposed solution? 
 
-Deduct points for negative secondary impacts
+    Deduct points for negative secondary impacts
 
-Do they align with UN SDG (Sustainable Development Goals)?
+    Do they align with UN SDG (Sustainable Development Goals)?
 
 6. Efficiency:
 
-What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track this?
+    What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
 
-Multiply total impact score by efficiency
+    Multiply total impact score by efficiency
