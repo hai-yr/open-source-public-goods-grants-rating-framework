@@ -1,5 +1,9 @@
 1. Neglectedness:
-What is the total investment (public, private, non-profit) into a solution or the amount of people/entities working on solutions to the stated (or implied) issue?
+What is the total current investment (public, private, non-profit) into the same type of solution to the stated (or implied) issue?
+
+or 
+
+What is the number of people/entities working on similar solutions to the issue?
 
     Example of rating scale
     (100 billion USD = 0, 10 billion = 2, 100 million = 6, 10 million = 8, 1 million = 10, <100k = 12)
@@ -15,7 +19,7 @@ If this project was maximally successful how big would the relative impact be? F
 How scalable is the proposed solution? Is there a path to financial viability?
 (similar to solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
 
-4. Successful execution score:
+4. Execution score:
 
 Impact/solution fit:
 
