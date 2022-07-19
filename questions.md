@@ -23,11 +23,11 @@ How scalable is the proposed solution? Is there a path to financial viability?
 
 4. Execution score:
 
-Impact/solution fit:
+    Impact/solution fit:
 
     How does this solution compare to existing or other proposed solutions?
 
-Team fit:
+    Team fit:
 
     How likely is the team to execute on the proposed solution?
 
