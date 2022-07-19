@@ -25,29 +25,29 @@ Team fit:
 
     How likely is the team to execute on the proposed solution?
 
-        a. Collective experience
+    a. Collective experience
 
-        How much experience does the team have as a whole?
+    How much experience does the team have as a whole?
 
-        b. Industry-specific experience
+    b. Industry-specific experience
 
-        Does the team have the necessary background to understand and contribute meaningfully to solutions in the space? 
+    Does the team have the necessary background to understand and contribute meaningfully to solutions in the space? 
 
-        c. Reputation/track record of execution
+    c. Reputation/track record of execution
 
-        Does the team have a record of building and contributing to other projects?
+    Does the team have a record of building and contributing to other projects?
     
  
 
 5. Secondary Impacts:
 What are any potential secondary impacts of the proposed solution? 
 
-    Deduct points for negative secondary impacts
+Deduct points for negative secondary impacts
 
-    Do they align with UN SDG (Sustainable Development Goals)?
+Do they align with UN SDG (Sustainable Development Goals)?
 
 6. Efficiency:
 
 What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track this?
 
-    Multiply total impact score by efficiency
+Multiply total impact score by efficiency
