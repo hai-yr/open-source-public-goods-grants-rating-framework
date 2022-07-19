@@ -56,4 +56,5 @@ What are any potential secondary impacts of the proposed solution?
 6. Efficiency:
 What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
 
-    Multiply total impact score by efficiency
+    Sections 1-5 are added together for impact score
+    Multiply total impact score by efficiency to get final score
