@@ -10,7 +10,7 @@ What is the total current investment (public, private, non-profit) into the same
     
     Full time staff (1 million = 0, ... 1 or less = 12)
     
-    Companies/orgs (50 = 0, 1 or less = 12)
+    Companies/orgs (50 = 0, ... 1 or less = 12)
 
 2. Scale (0-10): 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
