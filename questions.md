@@ -1,4 +1,4 @@
-1. Neglectedness:
+1. Neglectedness (0-12):
 What is the total current investment (public, private, non-profit) into the same type of solution to the stated (or implied) issue?
 
     or 
@@ -12,27 +12,27 @@ What is the total current investment (public, private, non-profit) into the same
     
     Companies/orgs (50 = 0, 1 or less = 12)
 
-2. Scale: 
+2. Scale (0-10): 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
 
     (0.001 Gt = 0, 0.01 = 2, 0.1 = 4, 1 = 6, 8 = 10,  10 = 100 Gt)
 
-3. Scalability: 
+3. Scalability (0-8): 
 How scalable is the proposed solution? Is there a path to financial viability?
 
     (similar to solvability, the doubling of $ or people working on the solution will solve X% of problem: 0.01 = 0, 100% = 8)
 
-4. Execution score:
+4. Execution score (0-10):
 
-    Impact/solution fit:
+    Impact/solution fit (0-5):
 
     How does this solution compare to existing or other proposed solutions?
 
-    Team fit:
+    Team fit (0-5):
 
     How likely is the team to execute on the proposed solution?
 
-    a. Collective experience
+    a. Collective experience 
 
     How much experience does the team have as a whole?
 
