@@ -10,7 +10,7 @@ What is the total current investment (public, private, non-profit) into the same
     
     Full time staff (1 million = 0, ... 1 or less = 12)
     
-    Companies (50 = 0, 1 or less = 12)
+    Companies/orgs (50 = 0, 1 or less = 12)
 
 2. Scale: 
 If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
@@ -56,5 +56,6 @@ What are any potential secondary impacts of the proposed solution?
 6. Efficiency:
 What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
 
-    Sections 1-5 are added together for impact score
+    Sections 1-4 are added together 
+    Sections 5-6 can create additions or deductions for impact score
     Multiply total impact score by efficiency to get final score
