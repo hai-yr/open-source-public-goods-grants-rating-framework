@@ -53,8 +53,8 @@ What are any potential secondary impacts of the proposed solution?
 
     Do they align with UN SDG (Sustainable Development Goals)?
 
-6. Efficiency:
-What percent of donated funds will go towards building creating the solution vs. administrative/overhead/salaries? Is there a transparent way to track      this?
+6. Transparency:
+Is there a transparent way to track how the funds are spent? Is there a planned distribution of funds?
 
 
 Process for scoring:
