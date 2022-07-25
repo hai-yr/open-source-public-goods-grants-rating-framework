@@ -1,5 +1,5 @@
 1. Neglectedness (0-12):
-What is the total current investment (public, private, non-profit) into the same type of solution to the stated (or implied) issue?
+What is the total current investment (public, private, non-profit) into similar solutions to the stated (or implied) issue?
 
     or 
 
