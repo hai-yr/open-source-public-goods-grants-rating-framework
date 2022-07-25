@@ -52,9 +52,9 @@ How scalable is the proposed solution? Is there a path to financial viability?
 5. Secondary Impacts:
 What are any potential secondary impacts of the proposed solution? 
 
-    Deduct points for negative secondary impacts
-
     Do they align with UN SDG (Sustainable Development Goals)?
+    
+    Deduct points for negative secondary impacts
 
 6. Transparency:
 Is there a transparent way to track how the funds are spent? Is there a planned distribution of funds?
