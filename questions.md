@@ -13,7 +13,9 @@ What is the total current investment (public, private, non-profit) into the same
     Companies/orgs (50 = 0, ... 1 or less = 12)
 
 2. Scale (0-10): 
-If this project was maximally successful how big would the relative impact be? For climate solutions, use this formula for gigatons drawdown
+If this project was maximally successful how big would the relative impact be in terms of UN SDG's? https://sdgs.un.org/goals
+
+    E.g. for goal 13 (climate solutions), can use this formula for gigatons drawdown
 
     (0.001 Gt = 0, 0.01 = 2, 0.1 = 4, 1 = 6, 8 = 10,  10 = 100 Gt)
 
